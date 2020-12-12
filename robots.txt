@@ -1,1 +1,3 @@
-https://rongutman.com/robots.txt
+User-Agent: *
+
+Allow: /
