@@ -541,6 +541,11 @@ h1 {
   font-size: 12px;
 }
 
+.small-footer {
+  margin: 15px auto;
+  font-size: 8px;
+}
+
 @media only screen and (max-width : 500px) {
  .join-us#contact {
     display: block;
